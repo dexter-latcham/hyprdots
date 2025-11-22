@@ -95,7 +95,7 @@
 
   "pulseaudio": {
     "format": "{icon}",
-    "on-click": "alacritty -o window.class='\"WiremixTui\"' -e wiremix &"
+    "on-click": "alacritty -o window.class='\"WiremixTui\"' -e wiremix &",
     "on-click-right": "pamixer -t",
     "tooltip-format": "Playing at {volume}%",
     "scroll-step": 5,
